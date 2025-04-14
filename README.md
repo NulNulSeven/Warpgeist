@@ -1,6 +1,6 @@
 ![g4](https://github.com/user-attachments/assets/45776037-1149-4c2a-8de9-e2ce9868b093)
 
-![Uploadi<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
